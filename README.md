@@ -10,26 +10,26 @@
   <img src="https://komarev.com/ghpvc/?username=xon-project&label=Profile%20Views&color=0e75b6&style=flat" alt="xon-project" />
 </div>
 
-**Привет! 👋 Я XON, разработчик с опытом в:**
+**Hi! 👋 I'm XON, a developer with experience in:**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/> **C#**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="20" height="20"/> **VB .NET**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="20" height="20"/> **Lua**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> **Web-разработка** 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> **Web Development** 
 
-**Я интересуюсь:**
+**I am interested in:**
 
-- Веб-технологиями
-- Разработка программных обеспечений
+- Web technologies
+- Software development
 
-**Контакты:**
+**Contact:**
 
 - **Discord:** xon_project
 
-**Поддержите меня:**
+**Support me:**
 
-- ⭐ Звездой на этом репозитории
-- 🤝 Подпиской на мой профиль GitHub
+- ⭐ Star this repository
+- 🤝 Subscribe to my GitHub profile
 
-**Благодарю за посещение!**
+**Thanks for visiting!**
