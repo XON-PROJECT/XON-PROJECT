@@ -1,16 +1,47 @@
-## Hi there 👋
+## XON-PROJECT
 
-<!--
-**XON-PROJECT/XON-PROJECT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=XON-PROJECT&label=Profile%20views&color=0e75b6&style=flat" alt="XON-PROJECT" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XON-PROJECT&show_icons=true&theme=tokyonight&count_private=true" alt="XON-PROJECT" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XON-PROJECT&layout=compact&langs_count=5&theme=tokyonight" alt="XON-PROJECT" />
+</div>
 
-Here are some ideas to get you started:
+**Привет! 👋 Я XON-PROJECT, разработчик с опытом в:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C#**
+- **VB .NET**
+- **Lua**
+- **Python**
+- **Web-разработка**
+
+**Я интересуюсь:**
+
+- Разработкой игр
+- Веб-технологиями
+- Машинным обучением
+
+**Я всегда открыт для новых проектов и сотрудничества. Давай свяжемся!**
+
+**Контакты:**
+
+- **GitHub:** [https://github.com/XON-PROJECT](https://github.com/XON-PROJECT)
+- **Email:** [your_email@example.com](mailto:your_email@example.com)
+
+**Статистика:**
+
+- **Репозитории:** [Количество репозиториев](https://github.com/XON-PROJECT?tab=repositories)
+- **Звезды:** [Количество звезд](https://github.com/XON-PROJECT?tab=stars)
+- **Вклад:** [Количество коммитов](https://github.com/XON-PROJECT?tab=overview)
+
+**Я постоянно учусь и развиваюсь, ищу интересные задачи и возможности для сотрудничества. Не стесняйтесь обращаться!**
+
+---
+
+**Важно:**
+
+- Замени `your_email@example.com` на свой реальный адрес электронной почты.
+- Дополни список своих интересов и навыков.
+- Добавь ссылки на свои лучшие проекты или репозитории.
+- Используй свой собственный стиль и дизайн.
+
+**Надеюсь, это поможет тебе создать привлекательное Readme.MD!**
